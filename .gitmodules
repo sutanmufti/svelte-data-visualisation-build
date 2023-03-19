@@ -1,0 +1,3 @@
+[submodule "svelte-data-visualisation"]
+	path = svelte-data-visualisation
+	url = https://github.com/sutanmufti/svelte-data-visualisation.git
